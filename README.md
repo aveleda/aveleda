@@ -10,3 +10,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&Color=blue)](https://www.linkedin.com/in/albino-aveleda/)
 [![AWS](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Professional-blue)](https://aws.amazon.com/pt/certification/)
 [![Microsoft](https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20Associate-blue)](https://docs.microsoft.com/pt-br/learn/certifications/azure-data-scientist/)
+
+[![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)](http://www.linux.org)
+[![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](http://www.python.org)
+[![JS](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)](https://reactjs.org/)
+[![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+<!--- ![](https://komarev.com/ghpvc/?username=your-github-aveleda&color=ff69b4&style=flat&label=visitors) --->
