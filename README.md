@@ -16,4 +16,5 @@
 [![JS](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)](https://reactjs.org/)
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+[![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
 <!--- ![](https://komarev.com/ghpvc/?username=your-github-aveleda&color=ff69b4&style=flat&label=visitors) --->
