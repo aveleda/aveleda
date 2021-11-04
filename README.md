@@ -17,4 +17,8 @@
 [![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)
 [![React](https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg)](https://reactjs.org/)
 [![Git](https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg)](https://git-scm.com/)
+[![MySQL](https://www.vectorlogo.zone/logos/mysql/mysql-official.svg)](https://www.mysql.com/)
+[![MariaDB](https://www.vectorlogo.zone/logos/mariadb/mariadb-ar21.svg)](https://mariadb.org/)
+[![PostgreSQL](https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg)](https://www.postgresql.org/)
+[![MongoDB](https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg)](https://www.mongodb.com/)
 <!--- ![](https://komarev.com/ghpvc/?username=your-github-aveleda&color=ff69b4&style=flat&label=visitors) --->
