@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @aveleda
 
-- 👀 I’m interested in Cloud Computing and HPC
+- 👀 I’m interested in Cloud Computing, and HPC
 - 🌱 I’m currently learning Data Science, Machine, Deep Learning, and Blockchain
-- 💞️ I’m looking to collaborate on Open Source Projects and New Technologies
+- 💞️ I’m looking to collaborate on Open Source Projects, and New Technologies
 
 ![Aveleda's github stats](https://github-readme-stats.vercel.app/api?username=aveleda&show_icons=true&theme=gruvbox_light)
 ![Aveleda´s Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aveleda&layout=compact&langs_count=7&theme=highcontrast)
