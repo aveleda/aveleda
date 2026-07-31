@@ -6,14 +6,7 @@
 
 ![Aveleda's github stats](https://github-readme-stats-fast.vercel.app/api?username=aveleda&show_icons=true&theme=gruvbox_light)
 ![Aveleda's Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aveleda&layout=compact&langs_count=8&card_width=320)
-![Aveleda's Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aveleda&layout=compact&langs_count=8)
-
-<a href="https://github.com/aveleda/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=aveleda" />
-</a>
-<a href="https://github.com/aveleda/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=aveleda&layout=compact&langs_count=8&card_width=320" />
-</a>
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=aveleda&theme=radical)](https://github.com/aveleda/github-readme-stats-fast)
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&labelColor=blue&logo=Linkedin&Color=blue)](https://www.linkedin.com/in/albino-aveleda/)
 [![AWS](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Professional-blue)](https://aws.amazon.com/pt/certification/)
