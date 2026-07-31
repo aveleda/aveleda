@@ -15,6 +15,8 @@
 [![Linux](https://www.vectorlogo.zone/logos/linux/linux-icon.svg)](http://www.linux.org)&nbsp;&nbsp;
 [![FreeBSD](https://www.vectorlogo.zone/logos/freebsd/freebsd-ar21.svg)](http://freebsd.org)
 [![OpenContainers](https://www.vectorlogo.zone/logos/opencontainers/opencontainers-ar21.svg)](https://opencontainers.org)
+[![K8s](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
+[![Rancher](https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg)](https://www.rancher.com/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com)
 <br><br>
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](http://www.python.org)
