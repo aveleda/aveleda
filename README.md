@@ -18,6 +18,7 @@
 [![K8s](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
 [![Rancher](https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg)](https://www.rancher.com/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com)
+[![AWS](https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg)](https://aws.amazon.com/)
 <br><br>
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](http://www.python.org)
 [![Jupyter](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg)](https://jupyter.org)
