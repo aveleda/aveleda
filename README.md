@@ -17,7 +17,6 @@
 [![OpenContainers](https://www.vectorlogo.zone/logos/opencontainers/opencontainers-ar21.svg)](https://opencontainers.org)
 [![K8s](https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg)](https://kubernetes.io/)
 [![Rancher](https://www.vectorlogo.zone/logos/rancher/rancher-ar21.svg)](https://www.rancher.com/)
-[![K3s](https://github.com/cncf/artwork/blob/main/projects/k3s/horizontal/color/k3s-horizontal-color.svg)](https://k3s.io/)
 [![Docker](https://www.vectorlogo.zone/logos/docker/docker-icon.svg)](https://www.docker.com)
 <br><br>
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](http://www.python.org)
