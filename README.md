@@ -20,7 +20,7 @@
 [![Python](https://www.vectorlogo.zone/logos/python/python-icon.svg)](http://www.python.org)
 [![Jupyter](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg)](https://jupyter.org)
 [![GoLang](https://www.vectorlogo.zone/logos/golang/golang-icon.svg)](https://go.dev/)
-[![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-official-icon.svg)](https://rust-lang.org/)
+[![Rust](https://www.vectorlogo.zone/logos/rust-lang/rust-lang-ar21.svg)](https://rust-lang.org/)
 [![JS](https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)&nbsp;&nbsp;
 [![TypeScript](https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg)](https://www.typescriptlang.org/)&nbsp;&nbsp;
 [![NodeJS](https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg)](https://www.nodejs.org/)
