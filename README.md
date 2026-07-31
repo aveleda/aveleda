@@ -5,8 +5,9 @@
 - 💞️ I’m looking to collaborate on Open Source Projects, and New Technologies
 
 ![Aveleda's github stats](https://github-readme-stats-fast.vercel.app/api?username=aveleda&show_icons=true&theme=gruvbox_light)
-![Aveleda's Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aveleda&layout=compact&langs_count=7&theme=highcontrast)
+![Aveleda's Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aveleda&layout=compact&langs_count=8&theme=highcontrast)
 ![Aveleda's Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aveleda&layout=compact&langs_count=8&card_width=320)
+![Aveleda's Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=aveleda&layout=compact&langs_count=8
 
 <a href="https://github.com/aveleda/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats-fast.vercel.app/api?username=aveleda" />
